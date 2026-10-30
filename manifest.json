@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Ted's Modpack",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "",
   "overrides": "overrides",
   "files": [
@@ -42,6 +42,12 @@
     {
       "projectID": 394468,
       "fileID": 8888037,
+      "required": true,
+      "isLocked": false
+    },
+    {
+      "projectID": 1687108,
+      "fileID": 9008547,
       "required": true,
       "isLocked": false
     },
